@@ -1,0 +1,2 @@
+# GraphQL
+Basic GraphQL server
